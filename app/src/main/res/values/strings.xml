@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Maps and location Kotlin</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiemFpZGthbWlsIiwiYSI6ImNrNXh2Z2xiYjBnazkzbHBkNG03enQ4NTYifQ.8sAJfK4lDkZ8hysdCxF-Ag</string>
+</resources>
